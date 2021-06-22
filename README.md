@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto: </h3>
 ---
 
 <a href="https://www.linkedin.com/in/christian-wescley/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGpRxfcEV2lrw/profile-displayphoto-shrink_800_800/0/1623550651743?e=1629936000&v=beta&t=WNfn7YImNvgv3amiria9vbrWr42a2zsuDy-dfuSFGo0" width="100px;" alt=""/>
+ <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGpRxfcEV2lrw/profile-displayphoto-shrink_800_800/0/1623550651743?e=1629936000&v=beta&t=WNfn7YImNvgv3amiria9vbrWr42a2zsuDy-dfuSFGo0" width="100px;" alt=""/>
  <br />
  <sub><b>Christian Wescley</b></sub></a> <a href="https://www.linkedin.com/in/christian-wescley/" title="">🚀</a>
 
