@@ -420,3 +420,49 @@ select {
     color: #979797;
     margin-left: 1vh;
 }
+
+/* Configurações do rodapé */
+
+.footer-line {
+    margin-top: 5vh;
+    width: 75%;
+    margin-left: 32vh;
+}
+
+footer {
+    align-items: flex-start;
+    height: 15vh;
+    padding-top: 2vh;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 32vh;
+    margin-bottom: 5vh;
+}
+
+.logo-footer {
+    width: 80%;
+}
+
+.galoa-btn {
+    height: 4vh;
+    width: 15vw;
+    margin-left: 1.5vh;
+    border: none;
+    background-color: rgb(102, 7, 131);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.footer-text {
+    color: #777676;
+    margin-top: 3vh;
+    margin-right: 10vh;
+    font-weight: 400;
+}
+
+.footer-text-2 {
+    margin-top: 3vh;
+    width: 90%;
+}
