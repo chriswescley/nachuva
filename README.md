@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  Teste na chuva 🚀 Em construção...  🚧
+	🚧  Teste na chuva :umbrella: Em construção...  🚧
 </h4>
 
 ### Features
