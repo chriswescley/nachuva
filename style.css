@@ -248,3 +248,46 @@ select {
     color: #b9b9b9;
     font-size: 1rem;
 }
+
+/* Configurações de resumo */
+
+.resumo {
+    position: relative;
+    height: auto;
+    width: 72.3vw;
+    margin-top: 2vh;
+    margin-left: 34vh;
+    border: solid 2px #ECECEC;
+    border-radius: 3px;
+}
+
+.resumo-title {
+    background-color: #FDF1EB;
+    padding: 1vh;
+    color: #4E4E4E;
+    font-size: 1.5rem;
+    font-weight: 500;    
+}
+
+.texto-resumo {
+    letter-spacing: 1px;
+    font-family: 'quicksand', sans-serif;
+    font-weight: 400;
+    color: #acacac;
+    width: fit-content;
+    margin-left: 1vh;
+    margin-top: 1vw;
+}
+
+#myBtn {
+    font-size: 1rem;
+    color: #ED7839;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    border: none;
+    background-color: white;
+}
+
+#more {
+    display: none;
+}
