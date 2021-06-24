@@ -22,13 +22,8 @@ function myFunction() {
 
 function abrir () {
   document.getElementById('user-popup').style.display = 'block';
-}
+};
 
 function fechar () {
   document.getElementById('user-popup').style.display = 'none';
-}
-
-
-
-
-
+};
