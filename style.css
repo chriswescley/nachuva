@@ -110,7 +110,6 @@ select {
 .user-menu {
     text-align: right;
     font-weight: 400;
-
 }
 
 /* Configurações do Menu de usuário */
@@ -231,7 +230,7 @@ select {
     margin-left: 5vh;
     border: solid 2px #ECECEC;
     border-radius: 3px;
-    
+    border: ;
 }
 .details h1 {
     color: #4E4E4E;
@@ -555,4 +554,180 @@ footer {
   100%{
     background-position: right;
   }
+}
+
+
+/* Responsividade */ 
+
+@media only screen and (max-width: 600px) {
+    
+    body {
+        width: 500px;
+    }
+    .nome{
+        font-size: 1.2rem;
+        padding-left: 2vh;
+    }
+
+    .titulo-1 {
+        display: none;
+    }
+
+    .titulo {
+        font-size: 1rem;
+        padding-top: 5px;
+        width: 200px;
+    }
+
+    header {
+        background-color: #FDF1EB;
+        height: 80px;
+        width: 750px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        color: #725C5C;
+        font-weight: 400;
+    }
+
+    #user-popup {
+        background-color: #FDF1EB;
+        position: absolute;
+        padding-top: 15vh;
+        padding-left: 2vh;
+        margin-left: 65vh;
+        width: 150px;
+        height: 150px;
+        display: none; 
+        border: solid 5px white;
+        box-shadow: grey 1px 1px 15px 5px;
+    }
+
+    select {
+        background-color: #FDF1EB;
+        height: 40px;
+        width: 20vh;
+        font-size: 1rem;
+        border-color: rgb(156, 156, 156);
+        padding-left: 1vh;
+        border: solid 1px rgb(185, 185, 185);
+        border-radius: 3px;
+        margin-left: -50px;
+        margin-right: 10px;
+    }
+
+    header img {
+        width: 50px;
+        height: 50px;
+        align-items: right;
+        border-radius: 100px;
+        margin-right: 23vh;
+        margin-left: 15px;
+    }
+    
+    .user-menu {
+        font-size: .9rem ;
+    }
+
+    .title {
+        letter-spacing: 1px;
+        font-size: .5rem;
+    }
+    .buttons {
+        display: flex;
+        flex-direction: row;
+        margin-left: 2vh;
+    }
+    .btn {
+        height: 5vh;
+        width: 9vh;
+        font-size: 1.5rem;
+    }
+
+    .btn-2 {
+        font-size: 1rem;
+        height:5vh;
+        width: 5vh;
+    }
+    .btn-3 {
+        font-size: 1rem;
+        height: 5vh;
+        width: 5vh;
+    }
+    .quote {
+        padding-left: 111%;
+        margin-top: 2px;
+        width: 150px;
+    }
+
+    .details {
+        height: 582px;
+        width: 140px;
+        border: solid 2px #ECECEC;
+        border-radius: 3px;
+    }
+
+    .details h1 {
+        color: #4E4E4E;
+        background-color: #FDF1EB;
+        height: 5vh;
+        width: 120px;
+    }
+
+    .details p {
+        margin-left: 1vh;
+        width: 130px;
+        font-size: .8rem;
+        border: none;
+    }
+    
+    .resumo {
+        width: 475px;
+    }
+
+    .topic-btn {
+        width: 180px;
+        height: 50px;
+        font-size: 1.2rem;
+    }
+    .qa-section {
+        width: 475px;
+    }
+
+    .question {
+        margin-left: 15px;
+    }
+
+    .footer-line {
+        margin-top: 5vh;
+        width: 460px;
+        margin-left: 35vh;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        
+        width: 475px;
+        margin-left: 274px;
+        text-align: center;
+    }
+
+    footer img {
+        width: 100px;
+        
+    }
+
+    .footer-text {
+        width: 200px;
+        margin-left: 120px;
+        padding-bottom: 30px;
+    }
+    .footer-text-2 {
+        margin-left: 10px;
+    }
+
+    .galoa-btn {
+        width: 200px;
+    }
 }
