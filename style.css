@@ -113,6 +113,35 @@ select {
 
 }
 
+/* Configurações do Menu de usuário */
+
+#user-popup {
+    background-color: #FDF1EB;
+    position: absolute;
+    padding-top: 5vh;
+    padding-left: 2vh;
+    margin-left: 115vh;
+    width: 200px;
+    height: 150px;
+    display: none; 
+    border: solid 5px white;
+    box-shadow: grey 1px 1px 15px 5px;
+}
+
+#user-popup a{
+    text-decoration: none;
+    color: red;
+    margin-left: 15vh;
+}
+
+#user-popup p {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 7px;
+    margin-top: 1vh;
+}
+
+
 /* Configurações da section title */
 
 .title {
@@ -131,7 +160,6 @@ select {
     display: flex;
     flex-direction: row;
     margin-left: 20vh;
-    margin-bottom: 0;
 }
 
 .btn {

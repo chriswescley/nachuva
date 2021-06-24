@@ -1,3 +1,7 @@
+
+/* Sistema "ver mais" */
+
+
 function myFunction() {
     var dots = document.getElementById("dots");
     var moreText = document.getElementById("more");
@@ -13,3 +17,18 @@ function myFunction() {
       moreText.style.display = "inline";
     }
   }
+
+/* Sistema pop up do usuário */
+
+function abrir () {
+  document.getElementById('user-popup').style.display = 'block';
+}
+
+function fechar () {
+  document.getElementById('user-popup').style.display = 'none';
+}
+
+
+
+
+
