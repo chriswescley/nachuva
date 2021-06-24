@@ -153,12 +153,14 @@ select {
     font-weight: 500;
     display: flex;
     flex-direction: row;
+    margin-bottom: 40px;
 }
 
 .buttons {
     display: flex;
     flex-direction: row;
     margin-left: 20vh;
+    margin-top: px;
 }
 
 .btn {
@@ -205,10 +207,11 @@ select {
 
 .quote {
     padding-left: 77.5%;
-    margin-top: -15px;
+    margin-top: -30px;
     color: #ED7839;
     font-weight: 600;
     text-transform: uppercase;
+    margin-bottom: -10px;
 }
 
 /* Configurações da section vídeo */
@@ -224,13 +227,12 @@ select {
 }
 
 .details {
-    height: 61.5vh;
+    height: 60.8vh;
     width: 15vw;
-    margin-top: 2vh;
+    margin-top: 1vh;
     margin-left: 5vh;
     border: solid 2px #ECECEC;
     border-radius: 3px;
-    border: ;
 }
 .details h1 {
     color: #4E4E4E;
@@ -264,7 +266,7 @@ select {
 
 .autores-nomes p{
     font-family: 'Quicksand', sans-serif;
-    margin-top: .8vh;
+    margin-top: .3vh;
     font-weight: 400;
 }
 
