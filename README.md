@@ -10,7 +10,7 @@
 - [x] Pop-Up de usuário 
 
 <h3 align="center">
-🛠 Tecnologias
+🛠 Tecnologias <br>
 As seguintes ferramentas foram usadas na construção do projeto: </h3>
 
 <h5 align="center">
