@@ -5,8 +5,9 @@
 ### Features
 
 - [x] Video
-- [x] Comentários
+- [x] Like
 - [x] Responsividade
+- [x] Pop-Up de usuário 
 
 <h3 align="center">
 🛠 Tecnologias
